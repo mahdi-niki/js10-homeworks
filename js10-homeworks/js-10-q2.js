@@ -8,6 +8,5 @@ const car= {
     color :"black",
     price :"kheyli dolar"
 }
-console.log(car.model)
+console.log(` eshala qesmate hame ${car.model}`)
 console.log(car["model"])
-console.log()

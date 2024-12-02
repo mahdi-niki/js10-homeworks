@@ -9,3 +9,12 @@
 */
 
 /**Write your code below  */
+let nam = {
+    Mike : "tall",
+    Jake : "kind",
+    Lilly : "young" 
+}
+
+for(let idk in nam){
+    console.log(`${idk} is ${nam[idk]}` )
+}
